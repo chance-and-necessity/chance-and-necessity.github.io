@@ -1,4 +1,4 @@
-## Strange Attractions
+## Chance and Necessity
 The beginnings of a homepage -- stay tuned. 
 This should eventually, one day, contain:
 - Some programming, split between bioinformatics and type theory, and possibly some overlaps between them (type-directed bioinformatics pipelines...imagine...)
