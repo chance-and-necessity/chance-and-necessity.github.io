@@ -1,8 +1,3 @@
 theme: jekyll-theme-minimal
 title: strange attractions, the homepage
-description: The beginnings of a homepage, stay tuned.
-Will eventually have
-- Some programming -- split between bioinformatics and type theory, possibly some overlaps between them
-- Some mathematical modeling of biological systems
-- Some mathematics proper
-- Writing
+description: "The beginnings of a homepage, stay tuned. | This should eventually have: | - Some programming -- split between bioinformatics and type theory, possibly some overlaps between them | - Some mathematical modeling of biological systems | - Some mathematics proper | - Writing"
