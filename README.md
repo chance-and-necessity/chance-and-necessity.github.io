@@ -1,2 +1,2 @@
-## strangeAttractions.github.io
-The beginnings of a homepage.
+## Strange Attractions
+The beginnings of a web page...
